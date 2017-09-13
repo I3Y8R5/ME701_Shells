@@ -1,0 +1,23 @@
+Problem 1)
+
+kbyers@kbyers-VirtualBox ~ $ ls
+anaconda3  bin  byers.txt  Desktop  Documents  Downloads  hw2.log  hw2.tex  kord.txt  ME701_Class_Notes  Music  Pictures  Public  Templates  trash  Videos
+kbyers@kbyers-VirtualBox ~ $ cat kord.txt byers.txt > kordbyers.txt
+kbyers@kbyers-VirtualBox ~ $ ls
+anaconda3  bin  byers.txt  Desktop  Documents  Downloads  hw2.log  hw2.tex  kordbyers.txt  kord.txt  ME701_Class_Notes  Music  Pictures  Public  Templates  trash  Videos
+kbyers@kbyers-VirtualBox ~ $ 
+
+
+
+kbyers@kbyers-VirtualBox ~ $ chmod u+x kord.txt
+kbyers@kbyers-VirtualBox ~ $ 
+
+
+Problems 2 & 3
+
+Found at: 
+
+https://github.com/I3Y8R5/ME701_Shells
+
+With the names: f2c.sh, count.sh, and trasher.sh
+
